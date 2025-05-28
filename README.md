@@ -8,7 +8,7 @@ A collection of raycasting engines implemented in Python, ranging from simple to
 - Hardware acceleration support
 - Trippy visual effects
 - Non-Euclidean map support
-- Optimized for performance
+- Optimized to overheat ur pc ... lmao
 
 ## Requirements
 
